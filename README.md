@@ -1,10 +1,26 @@
+## ⚠️ Negação de Serviço
+
 Este projeto foi desenvolvido como atividade prática da disciplina de Segurança de Tecnologia da Informação, do curso Análise e Desenvolvimentos de Sistemas da PUCPR.
 
-Simulação de ataque de negação de serviço(DoS), utilizando o kali linux e ubuntu em máquinas virtuais(virutalBox).
+## 🙆‍♀️ Objetivo
 
-Aviso: não executar em ambientes reais ou fora de laboratórios controlados.
+* Simulação de ataque de negação de serviço(DoS).
 
-Demonstração: https://youtu.be/CatAjKHnREw.
+*❗ Aviso: não executar em ambientes reais ou fora de laboratórios controlados.*
 
-Status: Projeto concluído e utilizado estritamente para fins acadêmicos.
-Data: 17/11/2025.
+## 📌 Demonstração
+
+* *<a href="https://www.youtube.com/watch?v=CatAjKHnREw">Atividade Somativa - Segurança da Tecnologia da Informação - PUCPR.</a>*
+
+### ⚒️ Ferramentas Utilizadas
+
+* Kali linux
+* Ubuntu(virutalBox).
+
+### ✔️ Status
+
+Projeto concluído e utilizado estritamente para fins acadêmicos.
+
+### 📆 Data
+
+17/11/2025.
